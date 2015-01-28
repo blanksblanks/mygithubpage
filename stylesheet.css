@@ -1,3 +1,13 @@
+h1 {
+	color:#A544FF;
+	font-family: Consolas, monaco, monospace;
+	font-size: 6rem;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.3999996185303px;
+}
+
 img {
 	width:300px;
 	height:300px;
@@ -13,4 +23,3 @@ table, th {
 	font-size:64px;
 	padding-top: 6px;
 }
-
