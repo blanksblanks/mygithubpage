@@ -6,3 +6,11 @@ img {
 table, td {
 	border: 1px #70b8ff dashed;
 }
+
+table, th {
+	font-family: Satisfy, cursive;
+	font-weight:normal;
+	font-size:64px;
+	padding-top: 6px;
+}
+
