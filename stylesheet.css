@@ -1,12 +1,19 @@
 h1 {
-	color:#A544FF;
+	color: #AA82FE; /* #A544FF; */
 	font-family: Consolas, monaco, monospace;
-	font-size: 6rem;
+	font-size: 86px; /* 6rem */
 	font-style: normal;
 	font-variant: normal;
 	font-weight: 500;
 	line-height: 26.3999996185303px;
 	text-align: center;
+	border-radius: 30px;
+	background: #272822;
+	/* linear-gradient(#292429,#0F0F0F); */
+	border:2 px solid black;
+	height: 86px;
+	width: 500px;
+	padding-top: 60px;
 }
 
 img {
@@ -22,5 +29,4 @@ table, th {
 	font-family: Satisfy, cursive;
 	font-weight:normal;
 	font-size:64px;
-	padding-top: 6px;
 }
